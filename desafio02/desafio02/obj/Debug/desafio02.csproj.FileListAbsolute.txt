@@ -1,0 +1,7 @@
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 03\desafio02\desafio02\bin\Debug\desafio02.exe.config
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 03\desafio02\desafio02\bin\Debug\desafio02.exe
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 03\desafio02\desafio02\bin\Debug\desafio02.pdb
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 03\desafio02\desafio02\obj\Debug\desafio02.csproj.AssemblyReference.cache
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 03\desafio02\desafio02\obj\Debug\desafio02.csproj.CoreCompileInputs.cache
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 03\desafio02\desafio02\obj\Debug\desafio02.exe
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 03\desafio02\desafio02\obj\Debug\desafio02.pdb
