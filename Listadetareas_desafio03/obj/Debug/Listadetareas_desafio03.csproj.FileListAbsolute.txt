@@ -1,0 +1,7 @@
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 03\Listadetareas_desafio03\Listadetareas_desafio03\bin\Debug\Listadetareas_desafio03.exe.config
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 03\Listadetareas_desafio03\Listadetareas_desafio03\bin\Debug\Listadetareas_desafio03.exe
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 03\Listadetareas_desafio03\Listadetareas_desafio03\bin\Debug\Listadetareas_desafio03.pdb
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 03\Listadetareas_desafio03\Listadetareas_desafio03\obj\Debug\Listadetareas_desafio03.csproj.AssemblyReference.cache
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 03\Listadetareas_desafio03\Listadetareas_desafio03\obj\Debug\Listadetareas_desafio03.csproj.CoreCompileInputs.cache
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 03\Listadetareas_desafio03\Listadetareas_desafio03\obj\Debug\Listadetareas_desafio03.exe
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 03\Listadetareas_desafio03\Listadetareas_desafio03\obj\Debug\Listadetareas_desafio03.pdb
